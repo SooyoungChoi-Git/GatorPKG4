@@ -6,3 +6,5 @@ devtools::install_github("Caleb-Huo/GatorPKG3")
 
 ## example
 f(1,2)
+
+Collaborator's change
